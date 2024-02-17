@@ -1,0 +1,14 @@
+# ninja log v5
+1	2077	7299109521298055	CMakeFiles/LoginSystem.dir/main.cpp.obj	c6e5d1e3b7357e05
+10	3696	7299124606327569	CMakeFiles/LoginSystem.dir/LoginFunctions.cpp.obj	27acbae6c94c2e6f
+3697	5133	7299124620715327	LoginSystem.exe	d8ee397b6486cd58
+2	3286	7299131549638160	CMakeFiles/LoginSystem.dir/LoginFunctions.cpp.obj	27acbae6c94c2e6f
+3287	4497	7299131561778723	LoginSystem.exe	d8ee397b6486cd58
+3	3420	7299132710553168	CMakeFiles/LoginSystem.dir/LoginFunctions.cpp.obj	27acbae6c94c2e6f
+3421	4749	7299132723882864	LoginSystem.exe	d8ee397b6486cd58
+3	1757	7299148211786783	CMakeFiles/LoginSystem.dir/main.cpp.obj	c6e5d1e3b7357e05
+1757	2951	7299148223680991	LoginSystem.exe	d8ee397b6486cd58
+2	1783	7299150527117131	CMakeFiles/LoginSystem.dir/main.cpp.obj	c6e5d1e3b7357e05
+1784	2989	7299150539135956	LoginSystem.exe	d8ee397b6486cd58
+2	3385	7299151034988572	CMakeFiles/LoginSystem.dir/LoginFunctions.cpp.obj	27acbae6c94c2e6f
+3385	4637	7299151047512267	LoginSystem.exe	d8ee397b6486cd58
